@@ -1,0 +1,42 @@
+/* INICIO EDICOES CRIADAS PARA O SITE*/
+ #topbar{
+	background-color: gray;
+	size: 30px;
+	padding: 20px;
+	text-align: center;
+  }
+  
+  #topbar a{
+	color: white;
+	text-decoration: none;
+	font-size: 30px;
+	padding: 30px;
+  }
+  
+  #topbar a:hover {
+  background-color: white;
+  color: red;
+  }
+  
+ img{
+	width: 80%;
+ }
+
+ #titulo-noticia{
+	text-align: center;
+
+ }
+ 
+ #noticia{
+	text-align: justify;
+	margin-left: 5ch;
+	margin-right: 9ch;
+ }
+
+ #fonte-noticia{
+	text-align: left;
+	margin-left: 5ch;
+ }
+  
+   /* FIM EDICOES CRIADAS PARA O SITE*/
+  
